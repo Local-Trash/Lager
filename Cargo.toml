@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "lager",
+    "lager-server"
+]
+resolver = "2"
