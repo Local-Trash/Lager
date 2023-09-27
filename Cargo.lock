@@ -5,10 +5,3 @@ version = 3
 [[package]]
 name = "lager"
 version = "0.1.0"
-dependencies = [
- "lager-server",
-]
-
-[[package]]
-name = "lager-server"
-version = "0.1.0"

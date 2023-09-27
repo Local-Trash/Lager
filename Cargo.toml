@@ -1,6 +1,5 @@
 [workspace]
 members = [
-    "lager",
-    "lager-server"
+    "lager"
 ]
 resolver = "2"
